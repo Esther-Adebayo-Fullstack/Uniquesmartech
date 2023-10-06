@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... JavaScript
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...this platform
-- 📫 How to reach me ...reach me on twitter @smartstitches
+- 📫 How to reach me ...reach me on twitter @Smarthystitches1
 
 <!---
 Uniquesmartech/Uniquesmartech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
